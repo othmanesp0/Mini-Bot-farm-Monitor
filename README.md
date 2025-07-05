@@ -32,11 +32,12 @@ pip install Flask Flask-SQLAlchemy
 Integrate with Bot Script
 
 Add this to your bot's main script before the main loop:
+```
 -- Load monitoring module
 local botMonitor = require("bot_monitor")
 
 -- MANDATORY FOR WEALTH TRACKING
-```
+
 local function openWealthEvaluator()
     -- IMPLEMENT YOUR WEALTH OPENING LOGIC HERE
     -- Example: open_interface("wealth_evaluator")
