@@ -1,4 +1,6 @@
 # RuneScape 3 Bot Farm Monitoring System
+![image](https://github.com/user-attachments/assets/086dae33-d2ad-4933-86a5-86c96315ed3f)
+
 
 ## 🖥️ System Overview
 This monitoring solution consists of:
